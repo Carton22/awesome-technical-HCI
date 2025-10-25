@@ -24,7 +24,7 @@ https://dl.acm.org/doi/10.1145/2907069
 
 # Techincal HCI Blogs
 
-https://medium.com/me/following-feed/writers/554d449f7b41
+https://medium.com/@niklaselmqvist
 
 # Tools
 
