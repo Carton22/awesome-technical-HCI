@@ -22,6 +22,13 @@ IEEE VIS
 
 https://dl.acm.org/doi/10.1145/2907069 
 
+# AI
+- AI agents
+- Generative AI
+
+# XR
+- Augmented Reality
+
 # Techincal HCI Blogs
 
 https://medium.com/@niklaselmqvist
