@@ -36,3 +36,8 @@ https://medium.com/@niklaselmqvist
 # Tools
 
 [Todo]
+
+# Videos
+
+[Technical HCI Office Hours By Prof. Michael Nebeling](https://www.youtube.com/watch?v=JQNdxY3j2Lk&t=401s)
+
